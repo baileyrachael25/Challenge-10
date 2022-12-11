@@ -1,0 +1,41 @@
+.employee-card {
+    background-color: rgb(215, 238, 244);
+}
+
+.my-team-header {
+    padding: 1em;
+    text-align: center;
+}
+
+.team-container {
+    margin-top: 5em;
+    display: flex;
+    justify-content: center;
+}
+
+.card-container {
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px gray;
+    margin: 2em;
+    width: 17em;
+}
+
+.banner-container {
+    padding: 1em;
+    border-radius: 5px 5px 0 0;
+}
+
+.info-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 1em;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
+
+.list-item {
+    margin: .1em;
+    background-color: white;
+    padding: .5em;
+    box-shadow: 0px 0px 1px gray;
+}
