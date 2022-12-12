@@ -4,6 +4,8 @@ const Manager = require('./lib/manager');
 const Engineer = require('./lib/engineer');
 const Employee = require('./lib/employee');
 const Intern = require('./lib/intern');
+const genTemplate = require('./src/template');
+const fs = require('fs');
 
 const team = [];
 
